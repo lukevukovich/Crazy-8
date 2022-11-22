@@ -4,6 +4,8 @@
 #include <time.h>
 #include <stdbool.h>
 
+//main.c only allows player to draw 1 card per move
+
 #define SIZE 52
 #define STRING 10
 
