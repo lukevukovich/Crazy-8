@@ -7,6 +7,8 @@
 #define SIZE 52
 #define STRING 10
 
+//final.c allows player to keep drawing until move is able to be made
+
 //Prototypes
 
 void setDeck(int[], int[]);
